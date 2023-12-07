@@ -1,6 +1,6 @@
 # 第一次发布：LHLVisionDemo 完全自主实现 工业视觉定位  测量  预处理  亚像素  矫正 拟合等算法 
 ## 一、find模块参数解释
-默认全图建模，如果选择roi需要绘制矩形框
+默认全图建模，如果选择roi需要绘制矩形框\
 1、find_ncc                    默认参数可以直接使用，subpixel=0 结果无亚像素 subpixel=1 一维插值 subpixel=2 二维插值 \
 2、find_shape                  默认参数可以直接使用，subpixel=0 结果无亚像素 subpixel=1 一维插值 subpixel=2 二维插值 subpixel=3 最小二乘拟合\
 3、find_scale_shape            默认参数可以直接使用，subpixel=0 结果无亚像素 subpixel=1 一维插值 subpixel=2 二维插值 subpixel=3 最小二乘拟合\
