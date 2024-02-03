@@ -5,8 +5,8 @@
 2、find_shape                  默认参数可以直接使用，subpixel=0 结果无亚像素 subpixel=1 一维插值 subpixel=2 二维插值 subpixel=3 最小二乘拟合\
 3、find_scale_shape            默认参数可以直接使用，subpixel=0 结果无亚像素 subpixel=1 一维插值 subpixel=2 二维插值 subpixel=3 最小二乘拟合\
 4、find_pat_scale_shape        默认参数可以直接使用，默认执行最小二乘拟合\
-5、find_pat_aniso_scale_shape  默认参数可以直接使用，默认执行最小二乘拟合\
-6、find_pat_scale_shape        默认参数可以直接使用，subpixel=0 结果无亚像素 subpixel=1 一维插值 subpixel=2 二维插值 subpixel=3 最小二乘拟合\
+5、find_aniso_scale_shape      默认参数可以直接使用，subpixel=0 结果无亚像素 subpixel=1 一维插值 subpixel=2 二维插值 subpixel=3 最小二乘拟合\
+6、find_pat_scale_shape        默认参数可以直接使用，默认执行最小二乘拟合\
 7、find_planar_deform_shape    默认参数可以直接使用，默认执行最小二乘拟合\
 8、find_local_deform           默认参数可以直接使用，内部无最小二乘拟合\
 9、find_feat_points_shape      默认参数可以直接使用，默认执行最小二乘拟合\
