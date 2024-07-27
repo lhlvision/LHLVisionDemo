@@ -13,9 +13,19 @@
 注意:带pat的，在创建模板的时候Grand选取不同会导致结果差别比较大，内部有自动计算，如果失败需要手动调节\
 ## 二、blob
     目前只支持threshold  connection
-## 八、subpixel
+## 三、subpixel
     目前支持多个亚像素操作
-
+## 四、支持一维码二维码识别
+        一维码	
+        UPC-A	Code 39	
+        UPC-E	Code 93	
+        EAN-8	Code 128	
+        EAN-13	Codabar	
+        UPC/EAN Extension 2/5
+        二维码
+        QR Code  Data Matrix Aztec PDF 417
+## 五、支持OCR识别
+       目前github上传限制25MB，需要OCR识别可以@本人提供
 ## dll里面有很多算法，没有全部做到界面，如果想看效果可以@作者
 
 ## QQ交流群 1076120833
