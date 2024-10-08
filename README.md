@@ -25,3 +25,4 @@
 ## dll里面有很多算法，没有全部做到界面，如果想看效果可以@作者
 
 ## QQ交流群 1076120833
+#发布第一个版本  https://github.com/lhlvision/LHLVisionDemo/releases/tag/1version
